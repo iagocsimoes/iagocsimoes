@@ -23,7 +23,7 @@
         </samp>
         <!-- Technologies -->
         <!-- JavaScript -->
-        JAVA | SPRING BOOT
+        JAVA  |  SPRING BOOT
         </a>
         <!-- React -->
 </p>
