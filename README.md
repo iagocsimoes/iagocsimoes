@@ -24,7 +24,7 @@
         <!-- Technologies -->
         <!-- JavaScript -->
         <a href="https://github.com/iagocsimoes?tab=repositories" target="_blank"><img alt="JavaScript"
-                        src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white">
+                        src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=Java&logoColor=white">
         </a>
         <!-- React -->
         <a href="https://github.com/iagocsimoes?tab=repositories" target="_blank"><img alt="React"
