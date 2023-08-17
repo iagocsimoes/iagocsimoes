@@ -23,12 +23,9 @@
         </samp>
         <!-- Technologies -->
         <!-- JavaScript -->
-        <a href="https://github.com/iagocsimoes?tab=repositories" target="_blank"><img alt="JavaScript"
-                        src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=Java&logoColor=white">
+        java|spring
         </a>
         <!-- React -->
-        <a href="https://github.com/iagocsimoes?tab=repositories" target="_blank"><img alt="React"
-                        src="https://img.shields.io/badge/-React-02cdf1?style=flat-square&logo=React&logoColor=white">
 </p>
 
 <!-- Footer -->
