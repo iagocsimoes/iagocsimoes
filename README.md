@@ -22,9 +22,7 @@
                 <br>
         </samp>
         <!-- Technologies -->
-        <!-- JavaScript -->
-        JAVA  |  SPRING BOOT
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+        <img width='40px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
 
         </a>
         <!-- React -->
