@@ -24,6 +24,8 @@
         <!-- Technologies -->
         <!-- JavaScript -->
         JAVA  |  SPRING BOOT
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+
         </a>
         <!-- React -->
 </p>
